@@ -1,0 +1,6 @@
+#+title: 易经
+#+options: toc:nil author:nil timestamp:nil
+#+EXPORT_FILE_NAME: index.html
+
+- [[https://freizl.github.io/yijing/zh-tw.json][繁体中文]]
+- [[https://freizl.github.io/yijing/zh-cn.json][简体中文]]
