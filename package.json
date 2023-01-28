@@ -1,0 +1,23 @@
+{
+  "name": "yijing",
+  "version": "1.0.0",
+  "description": "ichang main content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freizl/yijing.git"
+  },
+  "keywords": [
+    "ichange",
+    "yijing"
+  ],
+  "author": "Haisheng Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freizl/yijing/issues"
+  },
+  "homepage": "https://github.com/freizl/yijing#readme"
+}
