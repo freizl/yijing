@@ -1,5 +1,5 @@
 {
-  "name": "yijing",
+  "name": "@freizl/yijing",
   "version": "1.0.0",
   "description": "ichang main content",
   "main": "index.js",
@@ -19,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/freizl/yijing/issues"
   },
-  "homepage": "https://github.com/freizl/yijing#readme"
+  "homepage": "https://github.com/freizl/yijing"
 }
