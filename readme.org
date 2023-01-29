@@ -1,5 +1,7 @@
 #+title: 易经
 #+options: toc:nil author:nil timestamp:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://js-fun.github.io/iosevka-webfont/iosevka-term-ss08-17.0.2/iosevka-term-ss08.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://js-fun.github.io/iosevka-webfont/iosevka-etoile-17.0.2/iosevka-etoile.css"/>
 #+EXPORT_FILE_NAME: index.html
 
 * 繁体中文
