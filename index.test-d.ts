@@ -1,8 +1,8 @@
 import {expectType} from 'tsd';
-import SixtyFourGuasZhTw from './zh-TW/64-gua.json';
-import XianTian8GuasZhTw from './zh-TW/8-gua_xian-tian.json';
-import SixtyFourGuasZhCn from './zh-CN/64-gua.json';
-import XianTian8GuasZhCn from './zh-CN/8-gua_xian-tian.json';
+import SixtyFourGuasZhTw from './zh-TW/64gua.json';
+import XianTian8GuasZhTw from './zh-TW/xian-tian-8gua.json';
+import SixtyFourGuasZhCn from './zh-CN/64gua.json';
+import XianTian8GuasZhCn from './zh-CN/xian-tian-8gua.json';
 import {SixtyFourGuas, XianTian8Guas} from './';
 
 expectType<SixtyFourGuas>(SixtyFourGuasZhTw);
