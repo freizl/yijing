@@ -3,11 +3,11 @@
 #+EXPORT_FILE_NAME: index.html
 
 * 繁体中文
-- [[https://freizl.github.io/yijing/zh-TW/64-gua.json][六十四卦]]
+- [[https://freizl.github.io/yijing/zh-TW/64gua.json][六十四卦]]
 - [[https://freizl.github.io/yijing/zh-TW/xian-tian-8gua.json][先天八卦]]
 
 * 简体中文
-- [[https://freizl.github.io/yijing/zh-CN/64-gua.json][六十四卦]]
+- [[https://freizl.github.io/yijing/zh-CN/64gua.json][六十四卦]]
 - [[https://freizl.github.io/yijing/zh-CN/xian-tian-8gua.json][先天八卦]]
 
 * 其它资源
