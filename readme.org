@@ -15,4 +15,5 @@
 - [[https://freizl.github.io/yijing/zh-CN/xian-tian-8gua.json][先天八卦]]
 
 * 其它资源
+- [[http://ctext.org/zh][中國哲學書電子化計劃]]
 - [[https://en.wikipedia.org/wiki/Yijing_Hexagram_Symbols_(Unicode_block)][Yijing Hexagram Symbols]]
