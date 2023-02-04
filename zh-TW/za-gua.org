@@ -1,6 +1,5 @@
 #+title: 雜卦傳
 #+options: author:nil toc:nil timestamp:nil num:nil p:nil todo:nil
-#+EXPORT_FILE_NAME: ../../zh-TW/za-gua.md
 
 乾剛坤柔。
 
