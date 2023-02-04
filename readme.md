@@ -14,6 +14,7 @@
 
 # 其它资源
 
--   [中國哲學書電子化計劃](http://ctext.org/zh)
+-   [读易经](https://www.duyijing.cn)
+-   [中國哲學書電子化計劃](https://ctext.org/book-of-changes/zh)
 -   [Yijing Hexagram Symbols](https://en.wikipedia.org/wiki/Yijing_Hexagram_Symbols_(Unicode_block))
 

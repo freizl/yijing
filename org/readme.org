@@ -4,7 +4,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://js-fun.github.io/iosevka-webfont/iosevka-etoile-17.0.2/iosevka-etoile.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/org-default.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/css/default.css"/>
-#+EXPORT_FILE_NAME: index.html
+#+EXPORT_FILE_NAME: ../index.html
 
 * 繁体中文
 - [[https://freizl.github.io/yijing/zh-TW/64gua.json][六十四卦]]
@@ -15,5 +15,6 @@
 - [[https://freizl.github.io/yijing/zh-CN/xian-tian-8gua.json][先天八卦]]
 
 * 其它资源
-- [[http://ctext.org/zh][中國哲學書電子化計劃]]
+- [[https://www.duyijing.cn][读易经]]
+- [[https://ctext.org/book-of-changes/zh][中國哲學書電子化計劃]]
 - [[https://en.wikipedia.org/wiki/Yijing_Hexagram_Symbols_(Unicode_block)][Yijing Hexagram Symbols]]
