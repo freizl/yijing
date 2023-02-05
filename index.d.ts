@@ -12,6 +12,8 @@ export type SixtyFourGua = {
   yao_ci: Array<string>;
   // 小象
   xiao_xiang: Array<string>;
+  //
+  symbol: string;
 };
 
 export type SixtyFourGuas = Array<SixtyFourGua>;
