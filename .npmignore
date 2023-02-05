@@ -1,8 +1,8 @@
 index.html
 *.tgz
 node_modules
-tmp.js
 *tmp.json
 index.test-d.ts
 .github
-*.org
+readme.org
+scripts
