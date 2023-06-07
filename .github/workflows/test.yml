@@ -14,13 +14,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16.x
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
 
-      - name: Run install
-        uses: borales/actions-yarn@v4
-        with:
-          cmd: install # will run `yarn install` command
-      - name: Test TS definition
-        uses: borales/actions-yarn@v4
-        with:
-          cmd: test # will run `yarn test` command
-
+      - run: npm test
