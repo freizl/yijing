@@ -21,11 +21,6 @@
   },
   "homepage": "https://github.com/freizl/yijing",
   "devDependencies": {
-    "tsd": "^0.25.0"
-  },
-  "tsd": {
-    "compilerOptions": {
-      "resolveJsonModule": true
-    }
+    "tsd": "^0.28.0"
   }
 }
